@@ -1,0 +1,18 @@
+CONFIDENTIALITY 
+
+Student grade information is an asset whose confidentiality is considered to be highly important by students. 
+In the United States, the release of such information is regulated by the Family Educational Rights and Privacy Act (FERPA). 
+Grade information should only be available to students, their parents, and employees that require the information to do their job.
+Student enrollment information may have a moderate confidentiality rating. 
+While still covered by FERPA, this information is seen by more people on a daily basis, is less likely to be targeted than grade information, and results in less damage if disclosed. 
+Directory information, such as lists of students or faculty or departmental lists, may be assigned a low confidentiality rating or indeed no rating.
+This information is typically freely available to the public and published on a school’s Web site.
+
+INTEGRITY 
+
+Several aspects of integrity are illustrated by the example of a hospital patient’s allergy information stored in a database.
+The doctor should be able to trust that the information is correct and current. 
+Now suppose that an employee (e.g., a nurse) who is authorized to view and update this information deliberately falsifies the data to cause harm to the hospital. 
+The database needs to be restored to a trusted basis quickly, and it should be possible to trace the error back to the person responsible. 
+Patient allergy information is an example of an asset with a high requirement for integrity.
+Inaccurate information could result in serious harm or death to a patient and expose the hospital to massive liability.  

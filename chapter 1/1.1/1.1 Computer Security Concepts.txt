@@ -1,0 +1,57 @@
+<WHAT IS INFORMATION SECURITY?>
+
+- NIST Computer Security Handbook[NIST95] defines the term.
+    -> "The protection afforded to an automated information system in order to attain the applicable objectives of preserving the integrity, availability, and confidentiality of information system resources (includes hardware, software, firmware, information/data, and telecommunications)."
+
+- Confidentiality
+    -> Preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information.
+    -> A loss of confidentiality is the unauthorized disclosure of information.
+    -> Data confidentiality
+        -> Assures that private or confidential information is not made available or disclosed to unauthorized individuals.
+    -> Privacy
+        -> Assures that individuals control or influence what information related to them may be collected and stored and by whon and to whom that information may be disclosed.
+
+- Integrity
+    -> Guarding against improper information modification or destruction, including ensuring information nonrepudiation and authenticity.
+    -> A loss of integrity is the unauthorized modification or destruction of information.
+    -> Data integrity
+        -> Assures that information and programs are changed only in a specified and authorized manner.
+    -> System integrity
+        -> Assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system.
+
+- Availability
+    -> Ensuring timely and reliable access to and use of information.
+    -> A loss of availability is the disruption of access to or use of information or an information system.
+    -> Assures that system work promptly and service is not denied to authorized users.
+
+(If you look at The Security Requirements Triad.png, you can understand it in more detail.)
+
+<AUTHENTICITY AND ACCOUNTABILITY>
+
+- Authenticity
+    -> The property of being genuine and being able to be verified and trusted. 
+    -> confidence in the validity of a transmission, a message, or message originator.
+    -> Verifying that users are who they say they are and that each input arriving at the system came from a trusted source.
+
+- Accountability
+    -> The security goal that generates the requirement for actions of an entity to be traced uniquely to that entity.
+    -> Support nonrepudiation, deterrence, fault isolation, intrusion detection and prevention, and after-action recovery and legal action.
+    -> Because truly secure systems are not yet an achievable goal, we must be able to trace a security breach to a responsible party.
+    -> Systems must keep records of their activities to permit later forensic analysis to trace security breaches or to aid in transaction disputes.
+
+(If you look at The 1.1 Examples.png, you can understand it in more detail.)
+
+<COMPUTER SECURITY CHALLENGES>
+
+1. Not simple.
+2. Must consider potential attacks.
+3. Procedures used counter-intuitive.
+4. Involve algorithms and secret info.
+5. Must decide where to deploy mechanisms.
+6. Battle of wits between attacker/admin.
+7. Not perceived on benefit until fails.
+8. Requires regular monitoring.
+9. Too often an after-thought.
+10. Regarded as impediment to using system.
+
+(If you look at The Challenges of Computer Security.png, you can understand it in more detail.)

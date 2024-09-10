@@ -1,0 +1,17 @@
+<KEY POINTS>
+
+- Open Systems Intercinnection(OSI) security architecture
+  -> systematic framework for defining security attacks, mechanisms, and services.
+
+- Security attacks
+  -> passive attacks
+  -> unauthorized reading of message of file and traffic analysis.
+  -> active attacks
+  -> modification of messages or files, and denial of service.
+
+- Security mechanism
+  -> a process that is designed to detect, prevent, or recover from a security attack.
+  -> encryption algorithm, digital signatures, and authentication protocols.
+
+- Security services
+  -> authentication, access control, data confidentiality, data integrity, nonrepudiation, and availability.
